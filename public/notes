@@ -3,3 +3,6 @@ Form Binding
 create one input element
 create an another element which can dispaly input element
 if = funciton, : object
+
+1.input elements bind to state
+2. state to console.
